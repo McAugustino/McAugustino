@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @McAugustino
+- 👀 I’m interested in programming, games, media production.
+- 🌱 I’m currently learning video editing and more in-depth programming.
